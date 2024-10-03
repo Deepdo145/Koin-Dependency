@@ -30,5 +30,6 @@ class MainActivity : AppCompatActivity() {
 
         // Fetch the users
         userViewModel.getUsers()
+        
     }
 }
